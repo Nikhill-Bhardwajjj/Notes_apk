@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "107434997540",
+    "project_id": "notesapk-lihkin16",
+    "storage_bucket": "notesapk-lihkin16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107434997540:android:b6a03cb9edefd31f2ae5b1",
+        "android_client_info": {
+          "package_name": "com.lihkin16.notes_apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107434997540-08eqnciimnv1uo8h2vmglj6ttg1pk9kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lihkin16.notes_apk",
+            "certificate_hash": "ad60ebf321dce4faf45acd708bc4a188987f6c79"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6eI6G23IrJ1306djILQ5lSp8jutfYzOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
